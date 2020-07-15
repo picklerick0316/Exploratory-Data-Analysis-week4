@@ -15,6 +15,7 @@ Subject column is numbered sequentially from 1 to 30. Activity column has 6 type
 6.LAYING
 
 Measurements of the tidy dataset
+
 1."activitylabel"
 
 2."subject"
